@@ -35,6 +35,20 @@ To join the farmOS community development efforts, read the
 - Chat: [#farmOS on Matrix.org] or [#farmOS on IRC]
 - Calls: [Monthly community call] / [Weekly development call]
 
+farmOS is comprised of a number of Git repositores in the
+[farmOS GitHub Organization], as well as numerous community contributed modules
+and integrations.
+
+- [farmOS/farmOS]
+- [farmOS/farmOS-map]
+- [farmOS/farmOS.js]
+- [farmOS/farmOS.py]
+- [farmOS/farmOS-aggregator]
+- [farmOS/farmOS.org]
+- [farmOS/farmOS-community-blog]
+- [farmOS/farmOS-microblog]
+- [farmOS/field-kit]
+
 ## Follow farmOS
 
 Subscribe to the [farmOS newsletter]
@@ -68,4 +82,14 @@ This site is powered by [Netlify](https://www.netlify.com)
 [#farmOS on IRC]: https://webchat.oftc.net/?channels=#farmOS
 [Monthly community call]: /community/monthly-call
 [Weekly development call]: https://farmOS.discourse.group/t/farmos-community-calls/972
+[farmOS GitHub Organization]: https://github.com/farmOS
+[farmOS/farmOS]: https://github.com/farmOS/farmOS
+[farmOS/farmOS-map]: https://github.com/farmOS/farmOS-map
+[farmOS/farmOS.js]: https://github.com/farmOS/farmOS.js
+[farmOS/farmOS.py]: https://github.com/farmOS/farmOS.py
+[farmOS/farmOS-aggregator]: https://github.com/farmOS/farmOS-aggregator
+[farmOS/farmOS.org]: https://github.com/farmOS/farmOS.org
+[farmOS/farmOS-community-blog]: https://github.com/farmOS/farmOS-community-blog
+[farmOS/farmOS-microblog]: https://github.com/farmOS/farmOS-microblog
+[farmOS/field-kit]: https://github.com/farmOS/field-kit
 
