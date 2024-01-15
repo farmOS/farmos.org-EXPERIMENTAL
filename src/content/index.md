@@ -26,6 +26,15 @@ See the [farmOS Hosting Guide] for an overview of hosting options.
 If you would like to host farmOS yourself, read the [farmOS Installation Guide]
 and the [farmOS Update Guide] to learn how.
 
+## Develop farmOS
+
+To join the farmOS community development efforts, read the
+[Contributing to farmOS] overview, and join the community forum, chat, or calls.
+
+- Forum: [farmOS.discourse.group]
+- Chat: [#farmOS on Matrix.org] or [#farmOS on IRC]
+- Calls: [Monthly community call] / [Weekly development call]
+
 ## Follow farmOS
 
 Subscribe to the [farmOS newsletter]
@@ -54,3 +63,9 @@ This site is powered by [Netlify](https://www.netlify.com)
 [farmOS Hosting Guide]: /hosting
 [farmOS Installation Guide]: /hosting/install
 [farmOS Update Guide]: /hosting/update
+[farmOS.discourse.group]: https://farmOS.discourse.group
+[#farmOS on Matrix.org]: https://app.element.io/#/room/#farmOS:matrix.org
+[#farmOS on IRC]: https://webchat.oftc.net/?channels=#farmOS
+[Monthly community call]: /community/monthly-call
+[Weekly development call]: https://farmOS.discourse.group/t/farmos-community-calls/972
+
