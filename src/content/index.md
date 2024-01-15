@@ -19,6 +19,15 @@ You can contribute to the project by [making a donation] or [contributing] in
 other ways, or talk with developers and other users on the
 [farmOS Community Forum].
 
+## Get farmOS
+
+See the [farmOS Hosting Guide] for an overview of hosting options.
+
+If you would like to host farmOS yourself, read the [farmOS Installation Guide]
+and the [farmOS Update Guide] to learn how.
+
+## Follow farmOS
+
 Subscribe to the [farmOS newsletter]
 <iframe scrolling="no" style="width: 100% !important; height: 220px; border:1px #ccc solid !important" src="https://buttondown.email/farmOS?as_embed=true"></iframe>
 
@@ -42,3 +51,6 @@ This site is powered by [Netlify](https://www.netlify.com)
 [open source]: http://en.wikipedia.org/wiki/Open_source
 [farmOS GitHub]: https://github.com/farmOS
 [farmOS newsletter]: https://buttondown.email/farmOS
+[farmOS Hosting Guide]: /hosting
+[farmOS Installation Guide]: /hosting/install
+[farmOS Update Guide]: /hosting/update
