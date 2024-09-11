@@ -19,6 +19,38 @@ You can contribute to the project by [making a donation] or [contributing] in
 other ways, or talk with developers and other users on the
 [farmOS Community Forum].
 
+## Get farmOS
+
+See the [farmOS Hosting Guide] for an overview of hosting options.
+
+If you would like to host farmOS yourself, read the [farmOS Installation Guide]
+and the [farmOS Update Guide] to learn how.
+
+## Develop farmOS
+
+To join the farmOS community development efforts, read the
+[Contributing to farmOS] overview, and join the community forum, chat, or calls.
+
+- Forum: [farmOS.discourse.group]
+- Chat: [#farmOS on Matrix.org] or [#farmOS on IRC]
+- Calls: [Monthly community call] / [Weekly development call]
+
+farmOS is comprised of a number of Git repositores in the
+[farmOS GitHub Organization], as well as numerous community contributed modules
+and integrations.
+
+- [farmOS/farmOS]
+- [farmOS/farmOS-map]
+- [farmOS/farmOS.js]
+- [farmOS/farmOS.py]
+- [farmOS/farmOS-aggregator]
+- [farmOS/farmOS.org]
+- [farmOS/farmOS-community-blog]
+- [farmOS/farmOS-microblog]
+- [farmOS/field-kit]
+
+## Follow farmOS
+
 Subscribe to the [farmOS newsletter]
 <iframe scrolling="no" style="width: 100% !important; height: 220px; border:1px #ccc solid !important" src="https://buttondown.email/farmOS?as_embed=true"></iframe>
 
@@ -42,3 +74,22 @@ This site is powered by [Netlify](https://www.netlify.com)
 [open source]: http://en.wikipedia.org/wiki/Open_source
 [farmOS GitHub]: https://github.com/farmOS
 [farmOS newsletter]: https://buttondown.email/farmOS
+[farmOS Hosting Guide]: /hosting
+[farmOS Installation Guide]: /hosting/install
+[farmOS Update Guide]: /hosting/update
+[farmOS.discourse.group]: https://farmOS.discourse.group
+[#farmOS on Matrix.org]: https://app.element.io/#/room/#farmOS:matrix.org
+[#farmOS on IRC]: https://webchat.oftc.net/?channels=#farmOS
+[Monthly community call]: /community/monthly-call
+[Weekly development call]: https://farmOS.discourse.group/t/farmos-community-calls/972
+[farmOS GitHub Organization]: https://github.com/farmOS
+[farmOS/farmOS]: https://github.com/farmOS/farmOS
+[farmOS/farmOS-map]: https://github.com/farmOS/farmOS-map
+[farmOS/farmOS.js]: https://github.com/farmOS/farmOS.js
+[farmOS/farmOS.py]: https://github.com/farmOS/farmOS.py
+[farmOS/farmOS-aggregator]: https://github.com/farmOS/farmOS-aggregator
+[farmOS/farmOS.org]: https://github.com/farmOS/farmOS.org
+[farmOS/farmOS-community-blog]: https://github.com/farmOS/farmOS-community-blog
+[farmOS/farmOS-microblog]: https://github.com/farmOS/farmOS-microblog
+[farmOS/field-kit]: https://github.com/farmOS/field-kit
+
